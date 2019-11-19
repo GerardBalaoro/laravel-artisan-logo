@@ -1,11 +1,5 @@
 # Laravel Artisan Logo
 
-[![Packagist](https://img.shields.io/packagist/v/gerardbalaoro/laravel-artisan-logo)](https://packagist.org/packages/gerardbalaoro/laravel-artisan-logo)
-![Laravel](https://img.shields.io/badge/laravel-%5E5.6%20%7C%20%5E6.0-red)
-![PHP](https://img.shields.io/packagist/php-v/gerardbalaoro/laravel-artisan-logo)
-[![License](https://img.shields.io/packagist/l/gerardbalaoro/laravel-artisan-logo)](https://opensource.org/licenses/MIT)
-
-
 > Display app logo on Artisan commands. Inspired by Laravel-Zero.
 
 ```
